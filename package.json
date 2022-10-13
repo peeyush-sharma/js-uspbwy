@@ -1,0 +1,28 @@
+{
+  "name": "js-phone-auth-test",
+  "version": "2.0.1",
+  "private": true,
+  "dependencies": {
+    "firebase": "9.10.0",
+    "firebaseui": "^6.0.1"
+  },
+  "description": "[Edited using StackBlitz ⚡️]",
+  "main": "index.js",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peeyush-sharma/firebase-phone-auth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peeyush-sharma/firebase-phone-auth/issues"
+  },
+  "homepage": "https://github.com/peeyush-sharma/firebase-phone-auth#readme"
+}
